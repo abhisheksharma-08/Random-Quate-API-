@@ -1,0 +1,39 @@
+*{
+    font-family: 'Inconsolata', monospace;
+font-family: 'Maven Pro', sans-serif;
+font-family: 'Montserrat', sans-serif;
+}
+body{
+    align-items: center;
+    align-content: center;
+    text-align: center;
+    margin: auto;
+    background-color: #b1a296;
+
+}
+
+button{
+    height: 5rem;
+    width: 10vw;
+    color: white;
+    font-size: x-large;
+    
+    margin: 5px;
+    background-color: #5d5c61;
+    border-radius: 7px;
+}
+.div{
+    height: 60vh;
+    width: 55vw;
+    background-color: #7395ae;
+    border: 3px solid #557a95;
+    border-radius: 10px;
+   
+    margin: auto;
+    margin-top: 2rem;
+    color: white;
+    font-size: xx-large;
+}
+span .#qut,#aut{
+    margin: 1rem;
+}
